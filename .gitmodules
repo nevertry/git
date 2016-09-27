@@ -1,0 +1,3 @@
+[submodule "kapiteno"]
+	path = kapiteno
+	url = git@gitlab.com:tdlmc/kapiteno.git
